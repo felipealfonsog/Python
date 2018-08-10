@@ -10,7 +10,7 @@ class MITxStaff(object):
         self.lastname = lastname
 
 # there's an issue here
-   class TA(MITxStaff):
+class TA(MITxStaff):
        awesomeLevel = 0
 
        def __init__(self, firstname, lastname, awesomeLevel):
@@ -25,8 +25,8 @@ class MITxStaff(object):
 
 
 
-    Nitish = TA("Nitish", "Mital", 100)
-    Jing = TA("Jing", "Ma", 9001)
+Nitish = TA("Nitish", "Mital", 100)
+Jing = TA("Jing", "Ma", 9001)
 
-    print(Nitish.toString())
-    print(Jing.toString())
+print(Nitish.toString())
+print(Jing.toString())
