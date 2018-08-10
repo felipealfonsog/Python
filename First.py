@@ -9,7 +9,7 @@ class MITxStaff(object):
         self.firstname = firstname
         self.lastname = lastname
 
-
+# there's an issue here
    class TA(MITxStaff):
        awesomeLevel = 0
 
