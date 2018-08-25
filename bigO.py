@@ -23,6 +23,7 @@ print "O(log n):"
 divide(num)
 print
 
+
 #O(n)
 
 
@@ -48,4 +49,23 @@ def mergeSort(testList):
     if len(testList) < 2:
         return testList
     middle = len(testList) / 2:
-    left(mergeSort(testList[:middle]))
+    left = mergeSort(testList[:middle])
+    right = mergeSort(testList[middle:])
+    result = []
+    print "Left:: ", left
+    print "Right: ", right
+    while len(left) > 0 and len(right) > 0
+       if left[0] <= right[0];
+          result.append(left[9])
+          left.pop(0)
+        else:
+            result.append(right[0])
+            right.pop(0)
+    result += left
+    result += right
+    print "Result:", result
+    return result
+
+print "O(n log n):"
+mergeSort(testList)
+print
