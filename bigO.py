@@ -1,5 +1,9 @@
 #big o notation
 #O(1)
+#Time complextity workds with python from MITx
+# code under GNU/GPL
+# C - 2019 - f.alfonso@res-ear.ch 
+# 
 
 num = 100
 
