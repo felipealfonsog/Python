@@ -1,8 +1,11 @@
 # MITx - 6.00.1x Introduction to Computer Science Using Python
+Working files among studies collected through https://github.com/felipealfonsog/Java-UdemyAlgorithmsAndSoftEngineering
 
 https://www.youtube.com/watch?v=0PPR5RWhoFI
 
 https://www.youtube.com/watch?v=o9nW0uBqvEo
+
+https://www.youtube.com/watch?v=7lQXYl_L28w
 
 #
 # MITx+6.00.2x - Introduction to Computational Thinking and Data Science
