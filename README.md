@@ -1,6 +1,7 @@
 # MITx - 6.00.1x Introduction to Computer Science Using Python
 
 https://www.youtube.com/watch?v=0PPR5RWhoFI
+https://www.youtube.com/watch?v=o9nW0uBqvEo
 
 #
 # MITx+6.00.2x - Introduction to Computational Thinking and Data Science
