@@ -28,6 +28,9 @@ divide(num)
 print
 
 
+
+
+
 #O(n)
 
 
@@ -76,7 +79,8 @@ print
 
 
 #O(n**2)
-testList = {1,43,31,21,6,96,48,13,25,5}
+testList = [1,43,31,21,6,96,48,13,25,5]
+
 
 def bubbleSort(testList):
     for i in range(len(testList)):
@@ -87,4 +91,6 @@ def bubbleSort(testList):
 print "O(n**2):"
 bubbleSort(testList)
 print
+
+#
 
