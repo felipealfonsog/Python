@@ -18,6 +18,7 @@ print "O(1):", "Win", deductOne(num), "Win"
 num = 10
 
 def divide(num):
+ #   while num > 1;
     while num > 1:
         num /= 2
         print(num)

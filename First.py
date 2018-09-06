@@ -5,6 +5,8 @@ class MITxStaff(object):
     lastname = ""
 
 
+
+
     def __init__(self, firstname, lastname):
         self.firstname = firstname
         self.lastname = lastname
