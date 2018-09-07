@@ -22,5 +22,5 @@ x = 5
 y = 11
 d= 9
 func()
-
+print('a', a)
 
