@@ -22,5 +22,13 @@ x = 5
 y = 11
 d= 9
 func()
-print('a', a)
+
+
+# I'll get an error .... 
+#print('a', a)
+
+print("'d' before calling the function", d)
+
+feature_namespaces()
+print("'d' after calling the function", d)
 
