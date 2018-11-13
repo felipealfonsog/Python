@@ -1,4 +1,4 @@
-#configure the data to start with 
+#configure the data to start with
 collection= gte_initial_state()
 state_var = None
 for datum in data_set:
@@ -33,5 +33,9 @@ def make_collection(data_set):
 return collection
 
 #Now acutally work with the data
+#for thing in make_collection(data_set):
+#    process(thing)
+
+
 for thing in make_collection(data_set):
     process(thing)
