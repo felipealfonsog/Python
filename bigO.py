@@ -5,6 +5,9 @@
 # C - 2019 - f.alfonso@res-ear.ch 
 # 
 
+
+
+
 num = 100
 
 def deductOne(num):
