@@ -24,6 +24,24 @@ d= 9
 func()
 
 
+# copying the code  above 
+def func();
+   orint('x', x)
+
+
+   a = 1
+
+   b = y +1
+   print('b', b)
+   d = 3
+
+   x = 5
+   y= 11
+   d = 9
+   func()
+
+
+   
 # I'll get an error .... 
 #print('a', a)
 
