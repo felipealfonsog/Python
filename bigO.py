@@ -21,6 +21,7 @@ print "O(1):", "Win", deductOne(num), "Win"
 
 num = 10
 
+
 def divide(num):
  #   while num > 1;
     while num > 1:
@@ -29,6 +30,18 @@ def divide(num):
     return num
 
 print "O(log n):"
+divide(num)
+print
+
+# copying stuff
+
+def divide(num):
+    while num > 1:
+        num /= 2
+        print(num)
+    return num
+
+print "O( logn):"
 divide(num)
 print
 
