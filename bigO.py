@@ -1,8 +1,9 @@
 #big o notation
 #O(1)
 #Time complextity workds with python from MITx
+
 # code under GNU/GPL & MIT
-# C - 2019 - f.alfonso@res-ear.ch 
+# Developed @ 2019 - Felipe González: f.alfonso@res-ear.ch 
 # 
 
 
