@@ -1,3 +1,6 @@
+# code under GNU/GPL & MIT
+# Engineered @ 2019 - Felipe González: f.alfonso@res-ear.ch 
+# 
 
 
 def findDuplicate(nums):
