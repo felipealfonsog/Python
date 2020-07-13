@@ -17,6 +17,11 @@ def deductOne(num):
 
 print "O(1):", "Win", deductOne(num), "Win"
 
+print "O(1):", "Win", deductOne(num), "Win"
+print "O(1):", "Win", deductOne(num), "Win"
+print "O(1):", "Win", deductOne(num), "Win"
+print "O(1):", "Win", deductOne(num), "Win"
+
 #logaritmic O O(log n)
 
 num = 10
