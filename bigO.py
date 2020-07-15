@@ -36,47 +36,6 @@ def divide(num):
 
 print "O(log n):"
 divide(num)
-print
-
-
-
-def divide(num):
- #   while num > 1;
-    while num > 1:
-        num /= 2
-        print(num)
-    return num
-
-print "O(log n):"
-divide(num)
-print
-
-
-def divide(num):
- #   while num > 1;
-    while num > 1:
-        num /= 2
-        print(num)
-    return num
-
-print "O(log n):"
-divide(num)
-print
-
-
-
-# copying stuff
-
-def divide(num):
-    while num > 1:
-        num /= 2
-        print(num)
-    return num
-
-print "O( logn):"
-divide(num)
-print
-
 
 
 
